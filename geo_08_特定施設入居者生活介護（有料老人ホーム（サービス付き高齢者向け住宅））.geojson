@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_08_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ご隠居長屋和楽久　龍ケ崎【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】茨城県龍ケ崎市川原代町1283-1ご隠居長屋和楽久　龍ケ崎", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=870801388-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.143956, 35.921042 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅　縁【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】茨城県龍ケ崎市藤ケ丘4-4-3", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=870801024-00&ServiceCd=&Type=search", "url2": "https://goen-yukari.jimdofree.com/" }, "geometry": { "type": "Point", "coordinates": [ 140.193907582285988, 35.939413401654903 ] } },
+{ "type": "Feature", "properties": { "内容": "帆の鹿特定施設入居者生活介護事業所【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】茨城県鹿嶋市宮中350-1", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=872200803-00&ServiceCd=&Type=search", "url2": "www.sinwakai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.6380441, 35.9624757 ] } },
+{ "type": "Feature", "properties": { "内容": "鹿島灘ヴィルソレイユ二番館【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】茨城県鹿嶋市角折1285-3", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=872200886-00&ServiceCd=&Type=search", "url2": "https://www.yujin.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.626758200000012, 36.0381262 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き高齢者向け住宅えみあす二木成【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】二木成827", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=872700927-00&ServiceCd=&Type=search", "url2": "https://www.sekisho-ls.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 139.9737495, 36.2969117 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅愉庵【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】茨城県筑西市八丁台463番地", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=872700851-00&ServiceCd=&Type=search", "url2": "nakadateen.com" }, "geometry": { "type": "Point", "coordinates": [ 139.973562728697004, 36.325832695614302 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付高齢者向け住宅特定施設入居者生活介護プレヴェール【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】市野辺132-1プレヴェール", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=872700638-00&ServiceCd=&Type=search", "url2": "https://hamano-care.com/" }, "geometry": { "type": "Point", "coordinates": [ 139.9865284, 36.3130519 ] } }
+]
+}

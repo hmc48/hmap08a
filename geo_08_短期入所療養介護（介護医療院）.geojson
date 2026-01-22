@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_08_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "日鉱記念病院介護医療院【短期入所療養介護（介護医療院）】宮田町1-4-1", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=08B0200020-00&ServiceCd=551&Type=search", "url2": "http://www.nikko-memorial-hos.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.649563957514005, 36.601115034065899 ] } },
+{ "type": "Feature", "properties": { "内容": "土浦リハビリテーション病院介護医療院【短期入所療養介護（介護医療院）】茨城県土浦市真鍋新町11-7", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=08B0300010-00&ServiceCd=551&Type=search", "url2": "https://www.central.or.jp/iryoin/" }, "geometry": { "type": "Point", "coordinates": [ 140.2097307, 36.0898274 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院はまだクリニック【短期入所療養介護（介護医療院）】茨城県古河市坂間１８５－１１", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=08B0400018-00&ServiceCd=551&Type=search", "url2": "http://hama-cl.byoinnavi.jp/pc/" }, "geometry": { "type": "Point", "coordinates": [ 139.7088975, 36.1647009 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院　はすみ敬愛【短期入所療養介護（介護医療院）】茨城県常陸太田市木崎二町931-2", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=08B1200029-00&ServiceCd=551&Type=search", "url2": "313hosp@teishinkai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.524475700000011, 36.5318633 ] } },
+{ "type": "Feature", "properties": { "内容": "瀧病院　介護医療院【短期入所療養介護（介護医療院）】茨城県北茨城市磯原町磯原2-305", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=08B1500014-00&ServiceCd=551&Type=search", "url2": "http://www.takih.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.7398042, 36.7911522 ] } },
+{ "type": "Feature", "properties": { "内容": "にしまぎ介護医療院【短期入所療養介護（介護医療院）】戸頭1-8-21", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=08B1700010-00&ServiceCd=551&Type=search", "url2": "https://nishimagi-hospital.com/" }, "geometry": { "type": "Point", "coordinates": [ 140.0129229, 35.9190319 ] } },
+{ "type": "Feature", "properties": { "内容": "三岳荘小松崎病院介護医療院【短期入所療養介護（介護医療院）】茨城県筑西市中館２２６５番地", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=08B2700027-00&ServiceCd=551&Type=search", "url2": "http://www.sangakusou.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.975458767459003, 36.327455317077103 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院おおあらい【短期入所療養介護（介護医療院）】茨城県東茨城郡大洗町大貫町９１５", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=08B3100011-00&ServiceCd=551&Type=search", "url2": "http://watanabekai.net/" }, "geometry": { "type": "Point", "coordinates": [ 140.5587344, 36.3016263 ] } }
+]
+}

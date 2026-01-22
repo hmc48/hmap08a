@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_08_短期入所療養介護(療養病床を有する病院等）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人社団　三輪会　山手医院【短期入所療養介護(療養病床を有する病院等）】茨城県　土浦市　国分町７－６", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0810311704-00&ServiceCd=&Type=search", "url2": "http://wwwyamanote-clinic.com" }, "geometry": { "type": "Point", "coordinates": [ 140.188541, 36.0662512 ] } },
+{ "type": "Feature", "properties": { "内容": "短期入所療養介護　ダ・ヴィンチ【短期入所療養介護(療養病床を有する病院等）】茨城県守谷市松並１６３０－１", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0812410413-00&ServiceCd=&Type=search", "url2": "http://www.keiyu.or.jp/index.html" }, "geometry": { "type": "Point", "coordinates": [ 139.998768899999988, 35.9559847 ] } }
+]
+}
